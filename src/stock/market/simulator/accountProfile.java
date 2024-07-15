@@ -3,6 +3,8 @@ package stock.market.simulator;
 import java.util.*;
 
 public class accountProfile {
+    // This is a class
+
 
     private String accountName;
     private double balance;
